@@ -160,9 +160,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project kindly give it a star!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,9 +168,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Microverse for this amazing project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,15 +176,13 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **Which command are you using to run postgres?**
 
-- **[Which command are you using to run postgres?]**
+  - psql
 
-  - [psql]
+- **How can I make postgres work on my terminal on windows?**
 
-- **[How can I make postgres work on my terminal on windows?]**
-
-  - [Add the \bin folder path of postgres to your environmet variables PATH]
+  - Add the \bin folder path of postgres to your environmet variables PATH
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
