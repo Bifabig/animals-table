@@ -46,3 +46,48 @@ ALTER TABLE animals
 ADD CONSTRAINT fk_owners
 FOREIGN KEY (owner_id)
 REFERENCES owners (id); 
+
+-- Create a table named vets
+CREATE TABLE vets (
+    id BIGSERIAL NOT NULL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    age INT,
+    date_of_graduation DATE NOT NULL
+);
+
+-- Create a table specializations
+CREATE TABLE specializations (
+    species_id INT,
+    vets_id INT
+);
+
+ALTER TABLE specializations
+ADD CONSTRAINT fk_species
+FOREIGN KEY (species_id)
+REFERENCES species (id);
+
+
+ALTER TABLE specializations
+ADD CONSTRAINT fk_vets
+FOREIGN KEY (vets_id)
+REFERENCES vets (id); 
+
+-- Create a table specializations
+CREATE TABLE visits (
+    animals_id INT,
+    vets_id INT
+);
+
+ALTER TABLE visits
+ADD date_of_visit DATE NOT NULL;
+
+ALTER TABLE visits
+ADD CONSTRAINT fk_animals
+FOREIGN KEY (animals_id)
+REFERENCES animals (id);
+
+
+ALTER TABLE visits
+ADD CONSTRAINT fk_vets
+FOREIGN KEY (vets_id)
+REFERENCES vets (id); 
