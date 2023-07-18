@@ -132,6 +132,12 @@ You can deploy this project using:
 - Twitter: [@biftu94](https://twitter.com/biftu94)
 - LinkedIn: [Biftu Girma](https://www.linkedin.com/in/biftu-girma/)
 
+👤 **Nasirkhan294**
+
+- GitHub: [Nasirkhan294](https://github.com/Nasirkhan294)
+- Twitter: [@NasirMa35888225](https://twitter.com/NasirMa35888225)
+- LinkedIn: [Nasir Mahmood](https://www.linkedin.com/in/nasirmahd/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
