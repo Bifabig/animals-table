@@ -202,6 +202,7 @@ ORDER BY date_of_visit ASC
 LIMIT 1;
 
 -- Details for most recent visit: animal information, vet information, and date of visit.
+
 SELECT animals_id, animals.name as animal_name, vets_id, vets.name as vet_name, date_of_visit
 FROM visits
 JOIN vets

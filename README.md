@@ -4,7 +4,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -58,14 +57,6 @@
 - **[Create Table]**
 - **[Store Data]**
 - **[Query Data]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- coming soon...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,13 +115,17 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Biftu Girma**
 
 - GitHub: [@Bifabig](https://github.com/Bifabig)
 - Twitter: [@biftu94](https://twitter.com/biftu94)
 - LinkedIn: [Biftu Girma](https://www.linkedin.com/in/biftu-girma/)
+
+👤 **Nasirkhan294**
+
+- GitHub: [Nasirkhan294](https://github.com/Nasirkhan294)
+- Twitter: [@NasirMa35888225](https://twitter.com/NasirMa35888225)
+- LinkedIn: [Nasir Mahmood](https://www.linkedin.com/in/nasirmahd/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,11 +133,10 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[More Tables]**
 - [ ] **[Join Tables]**
 - [ ] **[Performance audit for Database]**
+- [ ] **[Query multiple tables]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
