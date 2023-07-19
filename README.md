@@ -4,6 +4,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [DB Schema](#db-schema)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -57,6 +58,12 @@
 - **[Create Table]**
 - **[Store Data]**
 - **[Query Data]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## [DB Schema] <a name="db-schema"></a>
+
+- [DB Schema](https://drive.google.com/file/d/1xU9MRzj7uVffxs9xR0s4ozn_i34qWJRt/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
